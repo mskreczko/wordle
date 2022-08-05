@@ -6,4 +6,4 @@ Rules:
   - 5 letter word
 
 
-Words list from: [](https://github.com/charlesreid1/five-letter-words)
+Words list from: [https://github.com/charlesreid1/five-letter-words](https://github.com/charlesreid1/five-letter-words)
